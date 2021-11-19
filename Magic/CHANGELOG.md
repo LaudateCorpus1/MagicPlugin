@@ -2,6 +2,8 @@
 
 # 10.2.1
 
+ - Fix path overrides (fixes mana progression in survival configs)
+
 # 10.2
 
 ## Mob AI
